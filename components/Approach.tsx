@@ -15,7 +15,7 @@ const Approach = () => {
         <Card
           title="My Story"
           icon={<AceternityIcon order="My Story" />}
-          des="I am a Software Engineer passionate about web app development, with extensive experience building production-level applications. My fascination with technology started in 1995 when my father brought home our first computer, a Mercer model running Windows 95. Watching my mom type on her typewriter as young child fueled my interest. In high school, I studied computer studies and became a certified computer technician. I later earned a degree in computer science, focusing on software programming. Today, I combine my analytical and creative abilities to craft efficient, user-centric solutions, constantly seeking new challenges in the tech world."
+          des="I am a Software Engineer passionate about web app development with experience building production-level applications. My interest in technology began at a young age, drawn to the intersection of logic and creativity in computer science. I focus on applying ethical considerations to technological innovations to benefit society. Additionally, I am committed to empowering underserved communities by improving access to technology and involving them in its development. Combining analytical and creative skills, I design user-centered solutions and continually seek new challenges in the tech world."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
